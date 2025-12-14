@@ -27,6 +27,6 @@ Useful for learning web scraping, price tracking, and basic data analysis workfl
 
 👤 AUTHOR
 
-Sai Srikar  
+Sai Srikar Goranta  
 
-Goranta Aspiring Data Analyst | SQL | Data Cleaning | Analytics
+Aspiring Data Analyst | SQL | Data Cleaning | Analytics
