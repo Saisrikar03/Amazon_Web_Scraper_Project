@@ -25,6 +25,8 @@ USE CASE
 
 Useful for learning web scraping, price tracking, and basic data analysis workflows.
 
-Author
+👤 AUTHOR
 
-Srikar
+Sai Srikar  
+
+Goranta Aspiring Data Analyst | SQL | Data Cleaning | Analytics
